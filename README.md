@@ -1,4 +1,4 @@
-OZHOMES Website
+# OZHOMES Website
 
 An edited HTML/CSS Template to match the Website preference
 
